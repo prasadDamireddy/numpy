@@ -1,2 +1,1 @@
-# numpy
-Numpy Assignment
+
